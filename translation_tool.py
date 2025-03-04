@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-API_KEY = "1mcfCUMLD6UvnK9NQHf3K908w1iOdUVwlcxYAGydssKyTaM45fdCJQQJ99BCACGhslBXJ3w3AAAbACOGroNN"
+API_KEY = "INSERT_YOUR_KEY_HERE"
 REGION = "centralindia"
 ENDPOINT = "https://api.cognitive.microsofttranslator.com/translate"
 
